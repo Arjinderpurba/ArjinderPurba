@@ -5,7 +5,6 @@
 I love building interactive, user-friendly web applications that solve real-world problems. My journey in development started during my second year of college, and I've been hooked ever since. I enjoy turning ideas into code and creating seamless digital experiences.
 
 ## 🌐 Socials
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjinderpurba02@gmail.com)
 
@@ -30,24 +29,6 @@ I love building interactive, user-friendly web applications that solve real-worl
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-# 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ArjinderSingh&theme=dark&show_icons=true&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjinderSingh&theme=dark&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjinderSingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
 
 ## 🌟 What I Enjoy
 - 🧠 Solving algorithmic and logical challenges
